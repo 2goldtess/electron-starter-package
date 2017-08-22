@@ -5,5 +5,5 @@ This repository holds a base/starter package for developing electron apps using 
 2. If you would like to change the version of electron (or any other dependency) being used in this package:
   a). Navigate to the `package.json` file and make the necessary changes there.
 3. Run `npm install` to install the dependencies 
-4. That it, just run the app using `npm start`
+4. Thats it, just run the app using `npm start`
  
